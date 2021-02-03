@@ -1,0 +1,16 @@
+header{background-color: red;}
+
+h1{font-style: oblique;
+font-stretch: extra-expanded;
+margin-bottom: 10px;}
+
+header h1{text-align: center;}
+
+li{display: inline-block;
+margin-right: 50px;
+text-decoration: none;
+text-align: center;}
+
+header nav li a{text-decoration: double;
+margin-left: 50px;
+text-align: center;}
