@@ -14,3 +14,16 @@ text-align: center;}
 header nav li a{text-decoration: double;
 margin-left: 50px;
 text-align: center;}
+img{width: 500px;
+float: inherit;}
+
+#img1{width: 400px;
+float: right;}
+
+main p{color: rgb(19, 139, 103);
+background-color: rgba(15, 67, 110, 0);
+font-size: 20px;
+font-family: 'Gill Sans';font-style: italic;}
+
+#p2{color: rgb(38, 43, 40);
+background-color: rgb(135, 215, 235);}
